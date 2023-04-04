@@ -3,8 +3,8 @@ main(){
   int a, b;
   int c=30, d=40;
 
-  a=10;
-  b=20;
+  a=input();
+  b=input();
 
   printf("%d %d \n", a, b);
   printf("%d %d \n", c, d);
